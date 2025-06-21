@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8b556c87ebe6f02cc519b5b42a61fdc8ed6b9a236762f45729eeb15a2878da77"
+            "sha256": "31df6a161deb37300dd5c8d44b41d7cd30f3d16cb3ae3c5dff446c7f355e22ea"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -48,11 +48,12 @@
         },
         "beautifulsoup4": {
             "hashes": [
-                "sha256:58d5c3d29f5a36ffeb94f02f0d786cd53014cf9b3b3951d42e0080d8a9498d30",
-                "sha256:ad9aa55b65ef2808eb405f46cf74df7fcb7044d5cbc26487f96eb2ef2e436693"
+                "sha256:9bbbb14bfde9d79f38b8cd5f8c7c85f4b8f2523190ebed90e950a8dea4cb1c4b",
+                "sha256:dbb3c4e1ceae6aefebdaf2423247260cd062430a410e38c66f2baa50a8437195"
             ],
             "index": "pypi",
-            "version": "==4.11.1"
+            "markers": "python_full_version >= '3.7.0'",
+            "version": "==4.13.4"
         },
         "bs4": {
             "hashes": [
@@ -257,11 +258,11 @@
         },
         "soupsieve": {
             "hashes": [
-                "sha256:3b2503d3c7084a42b1ebd08116e5f81aadfaea95863628c80a3b774a11b7c759",
-                "sha256:fc53893b3da2c33de295667a0e19f078c14bf86544af307354de5fcf12a3f30d"
+                "sha256:6e60cc5c1ffaf1cebcc12e8188320b72071e922c2e897f737cadce79ad5d30c4",
+                "sha256:ad282f9b6926286d2ead4750552c8a6142bc4c783fd66b0293547c8fe6ae126a"
             ],
-            "markers": "python_version >= '3.6'",
-            "version": "==2.3.2.post1"
+            "markers": "python_version >= '3.8'",
+            "version": "==2.7"
         },
         "stack-data": {
             "hashes": [
@@ -293,6 +294,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==5.5.0"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:a439e7c04b49fec3e5d3e2beaa21755cadbbdc391694e28ccdd36ca4a1408f8c",
+                "sha256:e6c81219bd689f51865d9e372991c540bda33a0379d5573cddb9a3a23f7caaef"
+            ],
+            "markers": "python_version >= '3.8'",
+            "version": "==4.13.2"
         },
         "urllib3": {
             "hashes": [
